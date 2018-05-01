@@ -2,7 +2,7 @@
 
 ## The Exercise
 
-Implement a program that extracts the latest ten posts from https://www.facebook.com/BritishVogue, and writes to a csv file the id, message and number of shares for each of those posts.[1]
+Implement a program that extracts the latest twenty five posts from https://www.facebook.com/BritishVogue, and writes to a csv file the id, message and number of shares for each of those posts.[1]
 
 Your program should be designed such that it could be used in the future to collect all posts from a large number different facebook pages. As such, it should use a big data processing framework: we recommend Apache Beam but you may choose another such as Spark. Using a local runner is fine.
 
